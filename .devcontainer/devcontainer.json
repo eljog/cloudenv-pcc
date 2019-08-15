@@ -1,0 +1,5 @@
+{
+    "name": "Cloud Env PCC",
+    "appPort": 62000,
+    "postCreateCommand": "echo Hi Dude"
+}
